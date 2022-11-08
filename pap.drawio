@@ -8,7 +8,7 @@
                     <mxGeometry x="300" y="80" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="7" value="stop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="300" y="400" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="300" y="540" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="10" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="8" target="6">
                     <mxGeometry relative="1" as="geometry"/>
@@ -24,6 +24,9 @@
                 </mxCell>
                 <mxCell id="9" value="Ausgabe firstName&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
                     <mxGeometry x="260" y="280" width="200" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Ausgabe familyName" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="410" width="210" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
