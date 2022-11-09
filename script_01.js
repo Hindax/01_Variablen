@@ -67,4 +67,9 @@ console.log("birthYearMark: " + birthYearMark);
 
 
 
+/** 04 Beispiel */
+// test
+
+
+
 
