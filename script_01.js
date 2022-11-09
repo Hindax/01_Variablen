@@ -47,5 +47,8 @@ test = "Hallo"; // Keine neue Zuweisung zur LZ
 console.log("Inhalt: " + test); //Ausgabe
 
 /** 04 Beispiel */
+// test
+
+
 
 
