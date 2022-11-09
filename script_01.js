@@ -41,9 +41,30 @@
 
 /**** 03 Konstanten */
 
+// const test = "Hi"; // Variable mit Konstatnten Inhalt
+// test = "Hallo"; // Keine neue Zuweisung zur LZ
+// console.log("Inhalt: " + test); //Ausgabe
 
-const test = "Hi"; // Variable mit Konstatnten Inhalt
-test = "Hallo"; // Keine neue Zuweisung zur LZ
-console.log("Inhalt: " + test); //Ausgabe
+/**** 04 Beispiel */
+
+//Deklaration
+let ageJohn, ageMark;
+let birthYearJohn, birthYearMark;
+
+//Wertzweisung
+ageJohn = 25;
+ageMark = 30;
+
+let year = 2022;
+
+// Berechnung
+birthYearJohn = year - ageJohn;
+birthYearMark = year - ageMark;
+
+//Ausgabe
+console.log("birthYeatJohn: " + birthYearJohn);
+console.log("birthYearMark: " + birthYearMark);
+
+
 
 
